@@ -8,4 +8,4 @@ opencv-python
 pillow
 scipy
 torchvision
-xtcocotools@ git+https://github.com/patrick-matroid/xtcocoapi@0511451a38d7e4e0f5c36c553d998188d2fefbac
+xtcocotools@ git+https://github.com/patrick-matroid/xtcocoapi@7f0488a067813199e63b129d66e6da97eaaf5476
